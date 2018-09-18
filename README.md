@@ -1,6 +1,9 @@
 # Employee-Database
 Imaginary employee database to practice using Firebase.
 
+# NOTE
+I have removed the API key to be in line with best security practices. Please contact me if you would like to see the application up and running!
+
 # What does the database do?
 The database takes the information put in the form and displays it below in a table. The total months and total bill are calculated.
 
